@@ -1,0 +1,33 @@
+1
+00:00:02,000 --> 00:00:12,000
+渭城朝雨浥轻尘
+No dust is raised on the road wet with morning rain
+
+2
+00:00:12,000 --> 00:00:25,000
+客舍青青柳色新
+The willows by the hotel look so fresh and green
+
+3
+00:00:25,000 --> 00:00:40,000
+劝君更尽一杯酒
+I invite you to drink a cup of wine again
+
+4
+00:00:40,000 --> 00:00:52,000
+西出阳关无故人
+West of the Sunny Pass no more friends will be seen
+
+5
+00:00:52,000 --> 00:00:56,000
+《送元二使安西》王维
+渭城朝雨浥轻尘，客舍青青柳色新。
+劝君更尽一杯酒，西出阳关无故人。
+
+6
+00:00:56,000 --> 00:01:00,000
+A Farewell Song — Wang Wei
+No dust is raised on the road wet with morning rain;
+The willows by the hotel look so fresh and green.
+I invite you to drink a cup of wine again;
+West of the Sunny Pass no more friends will be seen.
